@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-aiga/static/css/main.bf6ac150.css",
+    "main.js": "/portfolio-aiga/static/js/main.b4e1d913.js",
+    "static/js/835.cd82e4ae.chunk.js": "/portfolio-aiga/static/js/835.cd82e4ae.chunk.js",
+    "static/media/background.png": "/portfolio-aiga/static/media/background.217d689ca581a2f23306.png",
+    "index.html": "/portfolio-aiga/index.html",
+    "main.bf6ac150.css.map": "/portfolio-aiga/static/css/main.bf6ac150.css.map",
+    "main.b4e1d913.js.map": "/portfolio-aiga/static/js/main.b4e1d913.js.map",
+    "835.cd82e4ae.chunk.js.map": "/portfolio-aiga/static/js/835.cd82e4ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf6ac150.css",
+    "static/js/main.b4e1d913.js"
+  ]
+}
