@@ -1,0 +1,65 @@
+{
+  "name": "Karel Decherf",
+  "contact": {
+    "address": "Hurstweg 9, 9000 Gent",
+    "email": "karel.decherf@gmail.be",
+    "linkedin": "linkedin.com/in/karel-decherf-8212a9221",
+    "github": "github.com/KarelTestSpecial"
+  },
+  "profile": "Driven and analytical Solutions Architect with a lifelong passion for programming. Acting as an **AI-Augmented Lead Developer**, I leverage cutting-edge generative AI tools (Gemini 3.0, Jules) to architect and deliver complex full-stack solutions at triple the speed of traditional development. My background combines deep resilience with an intense, self-directed mastery of modern tech stacks. I am fully operational and ready to lead high-velocity projects.",
+  "notice": "Available for freelance contracts and international remote work.",
+  "workExperience": [
+    {
+      "role": "AI-Augmented Solutions Architect (Freelance)",
+      "company": "Self-Employed",
+      "period": "2024 - Present",
+      "description": "Orchestrating autonomous AI agents to build full-stack web applications, Chrome extensions, and data pipelines. Specializing in rapid prototyping, legacy system modernization, and AI integration."
+    },
+    {
+      "role": "Diverse Roles (Logistics, Horeca)",
+      "company": "Various",
+      "period": "2001 - 2024",
+      "description": "Developed strong work ethic and adaptability in various sectors while continuously self-educating in software development."
+    },
+    {
+      "role": "Web Developer",
+      "company": "Visitronics NV, Leuven",
+      "period": "01/2001 – 08/2001",
+      "description": "Developed and maintained custom web applications. Applied a range of web technologies to meet specific functional requirements."
+    }
+  ],
+  "skills": {
+    "ai_orchestration": "Google Antigravity, Google Jules 2.0, Gemini CLI, Prompt Engineering, Agentic Workflows, AI-Driven Code Generation",
+    "full_stack_architecture": "React (Vite, TypeScript), Python (FastAPI, Django), Node.js, Spring Boot, SQL, RESTful APIs",
+    "cloud_devops": "AWS, Google Cloud Platform, Docker, GitHub Actions (CI/CD), Firebase, Supabase",
+    "testing_qa": "Vitest, Playwright, Cygnet, Automated Testing Strategies",
+    "tools": "VS Code, Cursor, Linux (Debian/ChromeOS), Git"
+  },
+  "education": [
+    {
+      "degree": "Professional Bachelor in Applied Informatics",
+      "institution": "GOCI Aarschot",
+      "year": "2001"
+    },
+    {
+      "degree": "Candidacy Industrial Engineer (Cum Laude)",
+      "institution": "KIH De Nayer",
+      "year": "1995"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Dutch",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Professional Working Proficiency"
+    },
+    {
+      "language": "French",
+      "proficiency": "Proficient"
+    }
+  ],
+  "transport": "Driving License B"
+}
