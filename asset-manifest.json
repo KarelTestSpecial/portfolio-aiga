@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/portfolio-aiga/static/css/main.bf6ac150.css",
-    "main.js": "/portfolio-aiga/static/js/main.8b0091a9.js",
-    "static/js/835.cd82e4ae.chunk.js": "/portfolio-aiga/static/js/835.cd82e4ae.chunk.js",
+    "main.js": "/portfolio-aiga/static/js/main.cb767d60.js",
+    "static/js/811.908f4f2c.chunk.js": "/portfolio-aiga/static/js/811.908f4f2c.chunk.js",
     "static/media/background.png": "/portfolio-aiga/static/media/background.217d689ca581a2f23306.png",
     "index.html": "/portfolio-aiga/index.html",
     "main.bf6ac150.css.map": "/portfolio-aiga/static/css/main.bf6ac150.css.map",
-    "main.8b0091a9.js.map": "/portfolio-aiga/static/js/main.8b0091a9.js.map",
-    "835.cd82e4ae.chunk.js.map": "/portfolio-aiga/static/js/835.cd82e4ae.chunk.js.map"
+    "main.cb767d60.js.map": "/portfolio-aiga/static/js/main.cb767d60.js.map",
+    "811.908f4f2c.chunk.js.map": "/portfolio-aiga/static/js/811.908f4f2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf6ac150.css",
-    "static/js/main.8b0091a9.js"
+    "static/js/main.cb767d60.js"
   ]
 }
