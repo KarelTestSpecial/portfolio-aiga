@@ -1,11 +1,8 @@
-name: Deploy Portfolio Website
+name: Deploy to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
-    paths:
-      - 'projects/projects.tsv'
+    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -15,21 +12,22 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
+      - uses: pnpm/action-setup@v4
         with:
-          node-version: '18'
+          version: latest
 
-      - name: Set up pnpm
-        uses: pnpm/action-setup@v2
+      - uses: actions/setup-node@v4
         with:
-          version: 8 # Specify pnpm version, adjust if needed
+          node-version: '20'
+          cache: 'pnpm'
 
       - name: Install dependencies
-        run: pnpm install
+        run: pnpm install --frozen-lockfile
+
+      - name: Build
+        run: pnpm run build
 
       - name: Configure Git
         run: |
@@ -37,7 +35,7 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
 
-      - name: Update, Build, and Deploy
-        run: pnpm run update-and-deploy
+      - name: Deploy to gh-pages branch
+        run: pnpm exec gh-pages -d build
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

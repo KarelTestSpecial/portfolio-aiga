@@ -1,5 +1,7 @@
 # Karel Decherf - AI-Augmented Solutions Architect Portfolio
 
+**Live:** https://KarelTestSpecial.github.io/portfolio-aiga
+
 This is the **English / International** version of my portfolio, tailored for freelance work and modern tech roles.
 It showcases my work as an **AI-Augmented Solutions Architect**, leveraging Generative AI (Gemini, Jules) to accelerate development.
 
