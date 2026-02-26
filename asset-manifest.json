@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/portfolio-aiga/static/css/main.bf6ac150.css",
-    "main.js": "/portfolio-aiga/static/js/main.cb767d60.js",
-    "static/js/811.908f4f2c.chunk.js": "/portfolio-aiga/static/js/811.908f4f2c.chunk.js",
-    "static/media/background.png": "/portfolio-aiga/static/media/background.217d689ca581a2f23306.png",
-    "index.html": "/portfolio-aiga/index.html",
-    "main.bf6ac150.css.map": "/portfolio-aiga/static/css/main.bf6ac150.css.map",
-    "main.cb767d60.js.map": "/portfolio-aiga/static/js/main.cb767d60.js.map",
-    "811.908f4f2c.chunk.js.map": "/portfolio-aiga/static/js/811.908f4f2c.chunk.js.map"
+    "main.css": "https://KarelTestSpecial.github.io/portfolio-aiga/static/css/main.44977dd6.css",
+    "main.js": "https://KarelTestSpecial.github.io/portfolio-aiga/static/js/main.39f9fbb7.js",
+    "static/js/835.cd82e4ae.chunk.js": "https://KarelTestSpecial.github.io/portfolio-aiga/static/js/835.cd82e4ae.chunk.js",
+    "static/media/background.png": "https://KarelTestSpecial.github.io/portfolio-aiga/static/media/background.217d689ca581a2f23306.png",
+    "index.html": "https://KarelTestSpecial.github.io/portfolio-aiga/index.html",
+    "main.44977dd6.css.map": "https://KarelTestSpecial.github.io/portfolio-aiga/static/css/main.44977dd6.css.map",
+    "main.39f9fbb7.js.map": "https://KarelTestSpecial.github.io/portfolio-aiga/static/js/main.39f9fbb7.js.map",
+    "835.cd82e4ae.chunk.js.map": "https://KarelTestSpecial.github.io/portfolio-aiga/static/js/835.cd82e4ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf6ac150.css",
-    "static/js/main.cb767d60.js"
+    "static/css/main.44977dd6.css",
+    "static/js/main.39f9fbb7.js"
   ]
 }
